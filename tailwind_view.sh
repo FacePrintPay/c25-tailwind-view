@@ -35,3 +35,5 @@ cat <<HTML >> "$OUTPUT"
 HTML
 echo "✅ Tailwind log view created at: $OUTPUT"
 termux-open "$OUTPUT"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=tailwind_view.sh
